@@ -26,6 +26,6 @@ The complete dataset, including training and testing sets, can be download from 
 
 ========================================================================
 
-If you find our dataset useful in your research, please consider citing our paper "MBNet: Detecting Salient Object in Low-Light Scenes"
+If you find our dataset useful in your research, please consider citing our paper "Yu Zhang, Yiyue Hu, and Nan Mu, MBNet: Detecting Salient Object in Low-Light Scenes, IEEE International Conference on Systems, Man, and Cybernetics (SMC 2022)."
 
 In case of any questions, please contact Nan Mu at nanmu@sicnu.edu.cn
