@@ -19,6 +19,7 @@ Commodity: 682-881,
 Fruit: 882-933,
 Dolls: 934-986,
 Chair: 987-1000
+
 ========================================================================
 
 The complete dataset, including training and testing sets, can be download from Google Drive Link: https://drive.google.com/drive/folders/1H7pwWm9IHLjXzXZhCMjw4239MbQpx1rX?usp=sharing
